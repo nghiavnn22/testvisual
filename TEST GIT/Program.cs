@@ -8,6 +8,8 @@ namespace TEST_GIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Thay doi lan 2");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Thay doi lan 2");
         }
     }
 }
