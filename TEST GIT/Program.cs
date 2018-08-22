@@ -7,6 +7,7 @@ namespace TEST_GIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Thay doi lan 2");
         }
     }
 }
